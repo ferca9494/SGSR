@@ -1,0 +1,128 @@
+body{
+  color:#631000;
+  background-image:  url("imagenes/fondo.jpg");
+  font-family: Arial;
+
+}
+h1{
+	text-align:center;
+	color:#fff;
+}
+a{
+  text-decoration: none;
+  color:#631000;
+}
+a:hover{
+	color:#fff;
+}
+td{
+	padding:0px;
+}
+th{
+	border:1px dashed transparent;
+	border-bottom-color: #631000
+}
+#form_filtro{
+	background:#631000;
+	padding:20px;
+}
+#titulo{
+	background:#631000;
+	padding:10px;
+	text-align:left;
+}
+#titulo span{
+	margin-left:35%;
+	color:white;
+}
+#caja{
+	min-height:365px ;
+	padding:5px;
+	margin:5px;
+	float:left;
+	width: 73%;
+	background-color:#F4BC81;
+}
+.menu{
+	background-color: #F4BC81;
+	padding:5px;
+	margin:5px;
+	float:left;
+	width:22%;
+}
+#pestanas{
+	margin:0 0 0 5px;
+	width:100%;
+	float:left;
+}
+#pestanas a{
+	border-bottom: none;
+	color:#000;
+	padding:6px;
+	background-color:#BF966B;
+}
+#pestanas a:hover{
+	background-color:#F4BC81;
+}
+#pestanas #act{
+	color: #631000;
+	padding:6px;
+	background-color:#F4BC81;
+}
+.menu p , h3{
+	background: #631000;
+	padding: 10px;
+	text-align:center;
+	color:white;
+	margin:0;
+}
+#buscador{
+	width:75%;
+}
+#minibuscador{
+	width:60%;
+	margin:10px
+}
+#lista table{
+  width:100%;
+}
+table tr:nth-child(even) {
+    background-color:#EFB577;
+}
+#anotacion{
+	background:#fff;
+	border:1px dashed lightgray;
+	padding:10px;margin:20px
+}
+textarea{
+	min-width:400px;max-width:1px;
+	min-height:100px;max-height:1px
+}
+.separador{width:100%;border:1px dashed #631000;margin:10px 1px 0 0}
+footer{width:100%;float:left;text-align:center}
+.eliminar{color:#f00}
+.agregar{color:#0a0}
+.modificar{color:#fff}
+.eliminar:hover , .agregar:hover , .modificar:hover{color:white;text-shadow: 0px 0px 3px black;}
+
+.casivencido{color:red}
+.vencido{
+color:#a0a;   
+-moz-text-decoration-line: line-through; /* Code for Firefox */
+text-decoration: line-through;
+}
+
+.boton{
+background: #631000; /* Old browsers */
+background: -moz-linear-gradient(top,  #631000 0%, #470000 50%, #631000 51%, #631000 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #631000 0%,#470000 50%,#631000 51%,#631000 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #631000 0%,#470000 50%,#631000 51%,#631000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#631000', endColorstr='#631000',GradientType=0 ); /* IE6-9 */
+border:2px solid #470000;
+padding: 3px 10px 3px 10px ;
+color:white
+}
+
+.boton:hover{
+border:2px solid #fff;
+}
