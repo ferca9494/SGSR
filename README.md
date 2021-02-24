@@ -1,4 +1,5 @@
 # SGSR - Sistema de gestion de stock de restaurante
+Desarrollador: Fernando Cañete
 
 1) Alcance del sistema
   El sistema gestiona los datos del stock de materia prima, 
