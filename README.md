@@ -1,11 +1,11 @@
 # SGSR - Sistema de gestion de stock de restaurante
 Desarrollador: Fernando Cañete
 
-1) Alcance del sistema
+1) Alcance del sistema:
   El sistema gestiona los datos del stock de materia prima, 
   pedidos de platos y refleja los movimientos de stock
 
-2) Objetivos funcionales
+2) Objetivos funcionales:
   Actual izacion de materias primas, depósitos y recetas.
 
 Un usuario autorizado podria:
