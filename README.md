@@ -32,6 +32,6 @@ Estadisticas e informes
   - Visualizar el estado de los depositos (vacio, espacio disponible, lleno)
   - Recetas mas vendidas en un lapso de tiempo seleccionado
 
-Instrucciones:
+Instrucciones de instalacion:
 - clonar proyecto a servidor
 - escribir el siguiente comando para importar el archivo sql "mysql -u root -p  bd_sgsr < bd_sgsr.sql" 
