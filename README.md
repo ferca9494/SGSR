@@ -31,3 +31,7 @@ Estadisticas e informes
   - Visualizar el stock disponible en los depositos con o sin filtros de busqueda
   - Visualizar el estado de los depositos (vacio, espacio disponible, lleno)
   - Recetas mas vendidas en un lapso de tiempo seleccionado
+
+Instrucciones:
+- clonar proyecto a servidor
+- escribir el siguiente comando para importar el archivo sql "mysql -u root -p  bd_sgsr < bd_sgsr.sql" 
