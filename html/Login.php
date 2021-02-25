@@ -36,7 +36,7 @@
 		<th>Usuario</th><th>Contraseña</th><th>Descripcion</th>
 		</tr>
 		
-		<tr><td>d</td><td>d</td><td>El dueño</td></tr>
+		<tr><td>due</td><td>d</td><td>El dueño</td></tr>
 		<tr><td>c</td><td>c</td><td>El chef</td></tr>
 		<tr><td>g</td><td>g</td><td>El gerente</td></tr>
 		<tr><td>m</td><td>m</td><td>El mesero</td></tr>
